@@ -7,7 +7,8 @@ This is a Python Application that allows user to chat with PDF's. The user can a
 
 ## Install and Usage 
 
-To install to lcoal system:
+To install to local system:
+
 1. Use the Git command Line for either macOS, Linux or Windows to fork this repository to your Local Machine
 
 2. In the `App.py` look at all the packages and install them.
