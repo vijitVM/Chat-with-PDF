@@ -7,7 +7,7 @@ This is a Python Application that allows user to chat with PDF's. The user can a
 
 ## Install and Usage 
 
-To insall to lcoal system:
+To install to lcoal system:
 1. Use the Git command Line for either macOS, Linux or Windows to fork this repository to your Local Machine
 
 2. In the App.py look at all the packages and install them.
@@ -23,4 +23,19 @@ pip install InstructorEmbedding
 ```
 
 3. Obtain the API key from OpenAI and as well as Hugging Face and add it to the `.env` file in the project directory
+
+
+To use the given app follow the below given steps: 
+
+1. If you have already installed Python using Anaconda , then firstly Launch Anaconda Prompt CLI.
+
+2. Go the directory where the `main.py` file is stored and then execute the folloeing command:
+   ```
+   streamlit run app.py
+
+   ```
+
+3. In the browser load the PDF documents and then click on the `process button`.
+
+4. In the Chat box ask question's related to the PDF and get its response.
 
