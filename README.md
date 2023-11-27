@@ -21,5 +21,5 @@ pip install faiss-cpu
 pip install huggingface-hub
 pip install InstructorEmbedding
    ```
-3. Obtain the API key from OpenAI and as well as Hugging Face and add it to the .env file in the project directory.</li>
+3. Obtain the API key from OpenAI and as well as Hugging Face and add it to the `.env` file in the project directory
 
