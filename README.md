@@ -13,6 +13,13 @@ To insall to lcoal system:
 2. In the App.py look at all the packages and install them.
 ```
 pip install PyPDF2
+pip install python-dotenv
+pip install langchain
+pip install streamlit
+pip install openai
+pip install faiss-cpu
+pip install huggingface-hub
+pip install InstructorEmbedding
 ```
 
 3. Obtain the API key from OpenAI and as well as Hugging Face and add it to the `.env` file in the project directory
