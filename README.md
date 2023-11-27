@@ -35,8 +35,9 @@ To use the given app follow the below given steps:
    streamlit run app.py
 
    ```
+3. The app will run on local host:   `http://localhost:8501`
 
-3. In the browser load the PDF documents and then click on the `process button`.
+4. In the browser load the PDF documents and then click on the `process button`.
 
-4. In the Chat box ask question's related to the PDF and get its response.
+5. In the Chat box ask question's related to the PDF and get its response.
 
