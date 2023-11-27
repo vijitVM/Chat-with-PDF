@@ -10,7 +10,7 @@ This is a Python Application that allows user to chat with PDF's. The user can a
 To install to lcoal system:
 1. Use the Git command Line for either macOS, Linux or Windows to fork this repository to your Local Machine
 
-2. In the App.py look at all the packages and install them.
+2. In the `App.py` look at all the packages and install them.
 ```
 pip install PyPDF2
 pip install python-dotenv
