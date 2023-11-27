@@ -40,4 +40,3 @@ To use the given app follow the below given steps:
 4. In the browser load the PDF documents and then click on the `process button`.
 
 5. In the Chat box ask question's related to the PDF and get its response.
-
