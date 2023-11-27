@@ -33,7 +33,6 @@ To use the given app follow the below given steps:
 2. Go the directory where the `main.py` file is stored and then execute the folloeing command:
    ```
    streamlit run app.py
-
    ```
 3. The app will run on local host:   `http://localhost:8501`
 
